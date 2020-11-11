@@ -9,7 +9,7 @@ import pyodbc
 
 server = "databases1.spartaglobal.academy"
 database = "Northwind"
-username = "***"
+username = "****"
 password = "*******"
 northwind_connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
 # server name - database name - username and password is required to connecto to pyodbc
