@@ -4,3 +4,6 @@
 **some functions that we can use to interact with SQL data**
 
 - Set up pyobdc connection
+- Command to install pyobdc
+```pip install pyodbc```
+- once installed create a python_sql.py file 
